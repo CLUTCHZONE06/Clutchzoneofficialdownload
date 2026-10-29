@@ -1,0 +1,9 @@
+CLUTCH ZONE CONTENT ADDITIONS
+Build date: 2026-10-29
+
+This update is additive. Existing files from the supplied ZIP were extracted and retained. New files include content.css, blog.html, editorial-policy.html, and 20 standalone original player guides. Existing app, admin, Supabase, APK download and tournament files were not intentionally removed.
+
+Article count: 20
+Topics: beginner guide; rank push; Bermuda landing; safe-zone rotations; Clash Squad teamwork; sensitivity; HUD layout; lag and performance; end-zone positioning; solo vs squad; tournament registration; tournament rules and fair play; team communication; aim training; account safety; responsible gaming; tournament-day checklist; efficient looting; third-party fights; realistic practice plan.
+
+Before publishing: verify the live APK link/version, test Supabase/admin flows, test all tournament registration and support paths, check the deployed canonical domain, and review current Google AdSense policies. No file bundle can guarantee approval.
