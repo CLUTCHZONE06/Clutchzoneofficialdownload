@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin.html
-Disallow: /support-chat.html
-
-Sitemap: https://clutchzoneofficial.vercel.app/sitemap.xml
